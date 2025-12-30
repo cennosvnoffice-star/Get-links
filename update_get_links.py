@@ -10,7 +10,7 @@ import os
 CLIENT_ID = "icwnfnjml3m21c2"
 CLIENT_SECRET = "j12579um0i2tget"
 REFRESH_TOKEN = "0Ej6wkVJepwAAAAAAAAAAThM0b94S2ew1sLeRsvYyGyWT3zDi3oj1W1Zm5_AYHIK"
-FOLDER_PATH = "/Cennos/Bloomingdale's/FOAE250100138/Product Image"
+FOLDER_PATH = "/Amazon _ Assembly instruction/FOAE250100173 - Amazon Submission - November 2025"
 OUTPUT_EXCEL = "dropbox_links.xlsx"
 NUM_THREADS = 10
 

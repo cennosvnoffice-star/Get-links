@@ -10,7 +10,7 @@ B2: Copy + paste vào Terminal
         pip install dropbox pandas openpyxl tqdm
 
     2. Run:
-        python get_links.py
+        python update_get_links.py
 
 Kết quả nằm trong file .xlsx => download.
 
